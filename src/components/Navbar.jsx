@@ -42,7 +42,7 @@ const Navbar = () => {
 			<div style={{ margin: '10px' }}>
 				<Flex minWidth="max-content" alignItems="center" gap="2">
 					<Box p="2">
-						<Heading size="md">GeekGellery</Heading>
+					<Heading size="md">GeekGellery</Heading>
 					</Box>
 					<Spacer />
 					<ButtonGroup gap="2">
